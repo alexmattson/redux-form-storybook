@@ -1,3 +1,4 @@
+import React from 'react';
 import { reduxForm, reducer as formReducer } from 'redux-form';
 import { Provider } from 'react-redux';
 import { createStore, combineReducers } from 'redux';
